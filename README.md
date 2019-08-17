@@ -1,2 +1,2 @@
 # Java-Sample-Program
-Star program
+Core Java programs
