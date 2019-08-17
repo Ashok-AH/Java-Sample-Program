@@ -1,2 +1,2 @@
 # Java-Sample-Program
-Palindrome program
+Star program
